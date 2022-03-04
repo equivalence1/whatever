@@ -1,0 +1,6 @@
+[submodule "trt/example/contrib/cxxopts"]
+	path = trt/example/contrib/cxxopts
+	url = https://github.com/jarro2783/cxxopts
+[submodule "trt/example/contrib/json"]
+	path = trt/example/contrib/json
+	url = https://github.com/nlohmann/json
